@@ -1,7 +1,7 @@
 # Issue-Resolution-System
-#Author- Suhas Wankhede MCA (DY Patil Institute of MCA and Mgt Akurdi Pune)
+#Author- Ritesh Satwe-MCA(Sinhgad Institute of Management,Vadgao,Pune)
 <br><br><br>
-About Issue Resolution System:
+About Complaint Resolution System:
     This project is basically helps those who purchase products from online e-commerce website, Let suppose consider a one example you have purchase washing machine from amazon after using few days you have faced issue ( Talking about traditional way : you will contact to customer care help line and might possible take 10-15 days to resolve your issue because third party involvement ) to overcome this issue we had create a web based application.
 <br><br><br>
 How it will works:
